@@ -1,2 +1,6 @@
 # hello-world
-I think this is just a test or something
+Hey dudes!
+
+This is my first test using git.hub
+
+I like Dr. Pepper
